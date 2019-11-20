@@ -1,0 +1,2 @@
+boto3==1.10.19
+properties==0.5.6

@@ -1,0 +1,6 @@
+#the hostname in Route53 that is being dynamically updated
+hostname=my.host.com
+
+#aws access key and secret from an account that has access to the Route53
+aws.access.key=XYXYXYXYXYXYXYXY
+aws.access.secret=YZyzYzyZyzyzyz
